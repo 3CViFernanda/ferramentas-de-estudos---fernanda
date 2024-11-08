@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz denada em Inglês?',
-    'Denada em ingles é You're Welcome'
+    'Como se diz tempo em Inglês?',
+    'Tempo em ingles é Time (taime)'
 )
